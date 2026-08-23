@@ -1,10 +1,14 @@
 # ASCII Converter
 
-![ASCII Convert Image Example](https://user-cdn.hackclub-assets.com/01a02ead-31f6-76cb-b161-9d64340632ba/2026-08-23_16-41-38.png)
+![Terminal Screenshot](https://user-cdn.hackclub-assets.com/01a02eb0-515d-7fee-a249-e72022083ba7/Screenshot%202026-08-23%20at%204.09.15%E2%80%AFpm.png)
+
+
 
 ASCII Converter is simple image to ASCII converter. It works by first converting the image to grayscale, then converting the scale of how dark the image is to a 1-7 scale which is then used by the program to choose which character to use. It is printed line by line in a nested for loop.
 
 The terminal text is coloured using ANSI espace codes, which are written as ```\033[38;2;R;G;Bm``` where you can use the values of an RGB code i.e. ```\033[38;2;255;255;255m``` for an RGB code of ```[255,255,255]```.
+
+<img  style='width:500px;' src='https://user-cdn.hackclub-assets.com/01a02ead-31f6-76cb-b161-9d64340632ba/2026-08-23_16-41-38.png'>
 
 ## How I Made It
 
