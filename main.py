@@ -1,12 +1,10 @@
 from PIL import Image
-import matplotlib.pyplot as plot
-import numpy
 
 img = Image.open(input('Which image would you like to open? '))
 
-scale = int(input('What would you like your scale down to be? e.g. 2 is for 50% scale down '))
+ratio = img.width / img.height
 
-img = img.resize((int(img.width / scale),int(img.height / scale)))
+img = img.resize((int(img.width / (img.width / 50)),int(img.height / ((img.height * ratio) / 50))))
 
 greyimg = img.convert('L')
 
