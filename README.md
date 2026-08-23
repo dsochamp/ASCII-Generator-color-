@@ -1,6 +1,6 @@
 # ASCII Converter
 
-<img src='https://user-cdn.hackclub-assets.com/01a02e8e-709b-7485-b665-b37bf7bc8402/Screenshot%202026-08-23%20at%204.09.15%E2%80%AFpm.png'>
+![ASCII Convert Image Example](https://user-cdn.hackclub-assets.com/01a02ead-31f6-76cb-b161-9d64340632ba/2026-08-23_16-41-38.png)
 
 ASCII Converter is simple image to ASCII converter. It works by first converting the image to grayscale, then converting the scale of how dark the image is to a 1-7 scale which is then used by the program to choose which character to use. It is printed line by line in a nested for loop.
 
