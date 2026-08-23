@@ -17,7 +17,8 @@ line = ''
 for y in range(greyimg.height):
     for x in range(greyimg.width):
         index = int(greyimg.getpixel((x,y)) / (255/len(characters) + 1))
-        line += characters[index]
+        colours = img.getpixel((x,y))
+        line += f"\033[38;2;{colours[0]};{colours[1]};{colours[2]}m{characters[index]} \033[m"
         line += ' '
 
     print(line)
