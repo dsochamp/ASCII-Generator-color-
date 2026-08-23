@@ -2,8 +2,6 @@
 
 ![Terminal Screenshot](https://user-cdn.hackclub-assets.com/01a02eb0-515d-7fee-a249-e72022083ba7/Screenshot%202026-08-23%20at%204.09.15%E2%80%AFpm.png)
 
-
-
 ASCII Converter is simple image to ASCII converter. It works by first converting the image to grayscale, then converting the scale of how dark the image is to a 1-7 scale which is then used by the program to choose which character to use. It is printed line by line in a nested for loop.
 
 The terminal text is coloured using ANSI espace codes, which are written as ```\033[38;2;R;G;Bm``` where you can use the values of an RGB code i.e. ```\033[38;2;255;255;255m``` for an RGB code of ```[255,255,255]```.
@@ -18,4 +16,4 @@ The image is converted to grayscale in which the process I described in the intr
 
 ## Installation
 
-You can install the python code here: <a href='https://github.com/dsochamp/ASCII-Generator-color-/releases/tag/%23ASCII'>ASCII Generator w/ Color V1.0</a>. You can upload any image you like by entering its file location on your device or you can test it out using the test image which can be reffered to as just ```image.png```.
+You can install the python code here: <a href='https://github.com/dsochamp/ASCII-Generator-color-/releases/tag/%23ASCII'>ASCII Generator w/ Color V1.0</a>. After you have installed the .zip file from the release you can either open the folder in an editor like VSCode or right-click the folder and click ```Open Terminal at Folder```. Then, enter ```python3 main.py``` and it would start running!. You can upload any image you like by entering its file location on your device or you can test it out using the test image which can be reffered to as just ```image.png```.
