@@ -18,4 +18,4 @@ The image is converted to grayscale in which the process I described in the intr
 
 ## Installation
 
-You can install the executable at <a href='https://dsochamp.github.io/ImgTrace'>https://dsochamp.github.io/ImgTrace</a>. You can upload any image you like by entering its file location on your device or you can test it out using the test image which can be reffered to as just ```image.png```.
+You can install the python code here: <a href='https://github.com/dsochamp/ASCII-Generator-color-/releases/tag/%23ASCII'>ASCII Generator w/ Color V1.0</a>. You can upload any image you like by entering its file location on your device or you can test it out using the test image which can be reffered to as just ```image.png```.
