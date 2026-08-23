@@ -17,3 +17,8 @@ The image is converted to grayscale in which the process I described in the intr
 ## Installation
 
 You can install the python code here: <a href='https://github.com/dsochamp/ASCII-Generator-color-/releases/tag/%23ASCII'>ASCII Generator w/ Color V1.0</a>. After you have installed the .zip file from the release you can either open the folder in an editor like VSCode or right-click the folder and click ```Open Terminal at Folder```. Then, enter ```python3 main.py``` and it would start running!. You can upload any image you like by entering its file location on your device or you can test it out using the test image which can be reffered to as just ```image.png```.
+
+### Required Dependencies:
+
+- Python3 Installed
+- PIL (Python Image Library Installed)
