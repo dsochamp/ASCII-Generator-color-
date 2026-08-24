@@ -336,14 +336,6 @@
   ('_pydecimal',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/_pydecimal.py',
    'PYMODULE'),
-  ('_pyi_rth_utils',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/PyInstaller/fake-modules/_pyi_rth_utils/__init__.py',
-   'PYMODULE'),
-  ('_pyi_rth_utils.tempfile',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/PyInstaller/fake-modules/_pyi_rth_utils/tempfile.py',
-   'PYMODULE'),
   ('_pyrepl',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/_pyrepl/__init__.py',
    'PYMODULE'),
@@ -551,42 +543,6 @@
   ('contextvars',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/contextvars.py',
    'PYMODULE'),
-  ('contourpy',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/contourpy/__init__.py',
-   'PYMODULE'),
-  ('contourpy._version',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/contourpy/_version.py',
-   'PYMODULE'),
-  ('contourpy.array',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/contourpy/array.py',
-   'PYMODULE'),
-  ('contourpy.chunk',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/contourpy/chunk.py',
-   'PYMODULE'),
-  ('contourpy.convert',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/contourpy/convert.py',
-   'PYMODULE'),
-  ('contourpy.dechunk',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/contourpy/dechunk.py',
-   'PYMODULE'),
-  ('contourpy.enum_util',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/contourpy/enum_util.py',
-   'PYMODULE'),
-  ('contourpy.typecheck',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/contourpy/typecheck.py',
-   'PYMODULE'),
-  ('contourpy.types',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/contourpy/types.py',
-   'PYMODULE'),
   ('copy',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/copy.py',
    'PYMODULE'),
@@ -602,78 +558,11 @@
   ('ctypes._layout',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/ctypes/_layout.py',
    'PYMODULE'),
-  ('ctypes.wintypes',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/ctypes/wintypes.py',
-   'PYMODULE'),
-  ('cycler',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/cycler/__init__.py',
-   'PYMODULE'),
   ('dataclasses',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/dataclasses.py',
    'PYMODULE'),
   ('datetime',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/datetime.py',
-   'PYMODULE'),
-  ('dateutil',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/dateutil/__init__.py',
-   'PYMODULE'),
-  ('dateutil._common',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/dateutil/_common.py',
-   'PYMODULE'),
-  ('dateutil._version',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/dateutil/_version.py',
-   'PYMODULE'),
-  ('dateutil.easter',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/dateutil/easter.py',
-   'PYMODULE'),
-  ('dateutil.parser',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/dateutil/parser/__init__.py',
-   'PYMODULE'),
-  ('dateutil.parser._parser',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/dateutil/parser/_parser.py',
-   'PYMODULE'),
-  ('dateutil.parser.isoparser',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/dateutil/parser/isoparser.py',
-   'PYMODULE'),
-  ('dateutil.relativedelta',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/dateutil/relativedelta.py',
-   'PYMODULE'),
-  ('dateutil.rrule',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/dateutil/rrule.py',
-   'PYMODULE'),
-  ('dateutil.tz',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/dateutil/tz/__init__.py',
-   'PYMODULE'),
-  ('dateutil.tz._common',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/dateutil/tz/_common.py',
-   'PYMODULE'),
-  ('dateutil.tz._factories',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/dateutil/tz/_factories.py',
-   'PYMODULE'),
-  ('dateutil.tz.tz',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/dateutil/tz/tz.py',
-   'PYMODULE'),
-  ('dateutil.tz.win',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/dateutil/tz/win.py',
-   'PYMODULE'),
-  ('dateutil.zoneinfo',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/dateutil/zoneinfo/__init__.py',
    'PYMODULE'),
   ('decimal',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/decimal.py',
@@ -752,26 +641,6 @@
    'PYMODULE'),
   ('fnmatch',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/fnmatch.py',
-   'PYMODULE'),
-  ('fontTools',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/fontTools/__init__.py',
-   'PYMODULE'),
-  ('fontTools.agl',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/fontTools/agl.py',
-   'PYMODULE'),
-  ('fontTools.misc',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/fontTools/misc/__init__.py',
-   'PYMODULE'),
-  ('fontTools.misc.loggingTools',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/fontTools/misc/loggingTools.py',
-   'PYMODULE'),
-  ('fontTools.misc.textTools',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/fontTools/misc/textTools.py',
    'PYMODULE'),
   ('fractions',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/fractions.py',
@@ -899,423 +768,14 @@
   ('json.scanner',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/json/scanner.py',
    'PYMODULE'),
-  ('kiwisolver',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/kiwisolver/__init__.py',
-   'PYMODULE'),
-  ('kiwisolver.exceptions',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/kiwisolver/exceptions.py',
-   'PYMODULE'),
   ('logging',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/logging/__init__.py',
    'PYMODULE'),
   ('lzma',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/lzma.py',
    'PYMODULE'),
-  ('matplotlib',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/__init__.py',
-   'PYMODULE'),
-  ('matplotlib._afm',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_afm.py',
-   'PYMODULE'),
-  ('matplotlib._api',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_api/__init__.py',
-   'PYMODULE'),
-  ('matplotlib._api.deprecation',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_api/deprecation.py',
-   'PYMODULE'),
-  ('matplotlib._blocking_input',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_blocking_input.py',
-   'PYMODULE'),
-  ('matplotlib._cm',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_cm.py',
-   'PYMODULE'),
-  ('matplotlib._cm_bivar',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_cm_bivar.py',
-   'PYMODULE'),
-  ('matplotlib._cm_listed',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_cm_listed.py',
-   'PYMODULE'),
-  ('matplotlib._cm_multivar',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_cm_multivar.py',
-   'PYMODULE'),
-  ('matplotlib._color_data',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_color_data.py',
-   'PYMODULE'),
-  ('matplotlib._constrained_layout',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_constrained_layout.py',
-   'PYMODULE'),
-  ('matplotlib._docstring',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_docstring.py',
-   'PYMODULE'),
-  ('matplotlib._enums',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_enums.py',
-   'PYMODULE'),
-  ('matplotlib._fontconfig_pattern',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_fontconfig_pattern.py',
-   'PYMODULE'),
-  ('matplotlib._layoutgrid',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_layoutgrid.py',
-   'PYMODULE'),
-  ('matplotlib._mathtext',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_mathtext.py',
-   'PYMODULE'),
-  ('matplotlib._mathtext_data',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_mathtext_data.py',
-   'PYMODULE'),
-  ('matplotlib._pylab_helpers',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_pylab_helpers.py',
-   'PYMODULE'),
-  ('matplotlib._style_helpers',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_style_helpers.py',
-   'PYMODULE'),
-  ('matplotlib._text_helpers',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_text_helpers.py',
-   'PYMODULE'),
-  ('matplotlib._tight_bbox',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_tight_bbox.py',
-   'PYMODULE'),
-  ('matplotlib._tight_layout',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_tight_layout.py',
-   'PYMODULE'),
-  ('matplotlib._version',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/_version.py',
-   'PYMODULE'),
-  ('matplotlib.artist',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/artist.py',
-   'PYMODULE'),
-  ('matplotlib.axes',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/axes/__init__.py',
-   'PYMODULE'),
-  ('matplotlib.axes._axes',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/axes/_axes.py',
-   'PYMODULE'),
-  ('matplotlib.axes._base',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/axes/_base.py',
-   'PYMODULE'),
-  ('matplotlib.axes._secondary_axes',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/axes/_secondary_axes.py',
-   'PYMODULE'),
-  ('matplotlib.axis',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/axis.py',
-   'PYMODULE'),
-  ('matplotlib.backend_bases',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/backend_bases.py',
-   'PYMODULE'),
-  ('matplotlib.backend_managers',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/backend_managers.py',
-   'PYMODULE'),
-  ('matplotlib.backend_tools',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/backend_tools.py',
-   'PYMODULE'),
-  ('matplotlib.backends',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/backends/__init__.py',
-   'PYMODULE'),
-  ('matplotlib.backends.backend_agg',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/backends/backend_agg.py',
-   'PYMODULE'),
-  ('matplotlib.backends.backend_macosx',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/backends/backend_macosx.py',
-   'PYMODULE'),
-  ('matplotlib.backends.registry',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/backends/registry.py',
-   'PYMODULE'),
-  ('matplotlib.bezier',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/bezier.py',
-   'PYMODULE'),
-  ('matplotlib.category',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/category.py',
-   'PYMODULE'),
-  ('matplotlib.cbook',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/cbook.py',
-   'PYMODULE'),
-  ('matplotlib.cm',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/cm.py',
-   'PYMODULE'),
-  ('matplotlib.collections',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/collections.py',
-   'PYMODULE'),
-  ('matplotlib.colorbar',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/colorbar.py',
-   'PYMODULE'),
-  ('matplotlib.colorizer',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/colorizer.py',
-   'PYMODULE'),
-  ('matplotlib.colors',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/colors.py',
-   'PYMODULE'),
-  ('matplotlib.container',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/container.py',
-   'PYMODULE'),
-  ('matplotlib.contour',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/contour.py',
-   'PYMODULE'),
-  ('matplotlib.dates',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/dates.py',
-   'PYMODULE'),
-  ('matplotlib.dviread',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/dviread.py',
-   'PYMODULE'),
-  ('matplotlib.figure',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/figure.py',
-   'PYMODULE'),
-  ('matplotlib.font_manager',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/font_manager.py',
-   'PYMODULE'),
-  ('matplotlib.gridspec',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/gridspec.py',
-   'PYMODULE'),
-  ('matplotlib.hatch',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/hatch.py',
-   'PYMODULE'),
-  ('matplotlib.image',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/image.py',
-   'PYMODULE'),
-  ('matplotlib.inset',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/inset.py',
-   'PYMODULE'),
-  ('matplotlib.layout_engine',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/layout_engine.py',
-   'PYMODULE'),
-  ('matplotlib.legend',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/legend.py',
-   'PYMODULE'),
-  ('matplotlib.legend_handler',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/legend_handler.py',
-   'PYMODULE'),
-  ('matplotlib.lines',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/lines.py',
-   'PYMODULE'),
-  ('matplotlib.markers',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/markers.py',
-   'PYMODULE'),
-  ('matplotlib.mathtext',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/mathtext.py',
-   'PYMODULE'),
-  ('matplotlib.mlab',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/mlab.py',
-   'PYMODULE'),
-  ('matplotlib.offsetbox',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/offsetbox.py',
-   'PYMODULE'),
-  ('matplotlib.patches',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/patches.py',
-   'PYMODULE'),
-  ('matplotlib.path',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/path.py',
-   'PYMODULE'),
-  ('matplotlib.patheffects',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/patheffects.py',
-   'PYMODULE'),
-  ('matplotlib.projections',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/projections/__init__.py',
-   'PYMODULE'),
-  ('matplotlib.projections.geo',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/projections/geo.py',
-   'PYMODULE'),
-  ('matplotlib.projections.polar',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/projections/polar.py',
-   'PYMODULE'),
-  ('matplotlib.pyplot',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/pyplot.py',
-   'PYMODULE'),
-  ('matplotlib.quiver',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/quiver.py',
-   'PYMODULE'),
-  ('matplotlib.rcsetup',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/rcsetup.py',
-   'PYMODULE'),
-  ('matplotlib.scale',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/scale.py',
-   'PYMODULE'),
-  ('matplotlib.spines',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/spines.py',
-   'PYMODULE'),
-  ('matplotlib.stackplot',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/stackplot.py',
-   'PYMODULE'),
-  ('matplotlib.streamplot',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/streamplot.py',
-   'PYMODULE'),
-  ('matplotlib.style',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/style/__init__.py',
-   'PYMODULE'),
-  ('matplotlib.style.core',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/style/core.py',
-   'PYMODULE'),
-  ('matplotlib.table',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/table.py',
-   'PYMODULE'),
-  ('matplotlib.texmanager',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/texmanager.py',
-   'PYMODULE'),
-  ('matplotlib.text',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/text.py',
-   'PYMODULE'),
-  ('matplotlib.textpath',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/textpath.py',
-   'PYMODULE'),
-  ('matplotlib.ticker',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/ticker.py',
-   'PYMODULE'),
-  ('matplotlib.transforms',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/transforms.py',
-   'PYMODULE'),
-  ('matplotlib.tri',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/tri/__init__.py',
-   'PYMODULE'),
-  ('matplotlib.tri._triangulation',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/tri/_triangulation.py',
-   'PYMODULE'),
-  ('matplotlib.tri._tricontour',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/tri/_tricontour.py',
-   'PYMODULE'),
-  ('matplotlib.tri._trifinder',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/tri/_trifinder.py',
-   'PYMODULE'),
-  ('matplotlib.tri._triinterpolate',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/tri/_triinterpolate.py',
-   'PYMODULE'),
-  ('matplotlib.tri._tripcolor',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/tri/_tripcolor.py',
-   'PYMODULE'),
-  ('matplotlib.tri._triplot',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/tri/_triplot.py',
-   'PYMODULE'),
-  ('matplotlib.tri._trirefine',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/tri/_trirefine.py',
-   'PYMODULE'),
-  ('matplotlib.tri._tritools',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/tri/_tritools.py',
-   'PYMODULE'),
-  ('matplotlib.typing',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/typing.py',
-   'PYMODULE'),
-  ('matplotlib.units',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/units.py',
-   'PYMODULE'),
-  ('matplotlib.widgets',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/matplotlib/widgets.py',
-   'PYMODULE'),
   ('mimetypes',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/mimetypes.py',
-   'PYMODULE'),
-  ('mpl_toolkits', '-', 'PYMODULE'),
-  ('mpl_toolkits.mplot3d',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/mpl_toolkits/mplot3d/__init__.py',
-   'PYMODULE'),
-  ('mpl_toolkits.mplot3d.art3d',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/mpl_toolkits/mplot3d/art3d.py',
-   'PYMODULE'),
-  ('mpl_toolkits.mplot3d.axes3d',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/mpl_toolkits/mplot3d/axes3d.py',
-   'PYMODULE'),
-  ('mpl_toolkits.mplot3d.axis3d',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/mpl_toolkits/mplot3d/axis3d.py',
-   'PYMODULE'),
-  ('mpl_toolkits.mplot3d.proj3d',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/mpl_toolkits/mplot3d/proj3d.py',
    'PYMODULE'),
   ('multiprocessing',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/multiprocessing/__init__.py',
@@ -1943,14 +1403,6 @@
   ('opcode',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/opcode.py',
    'PYMODULE'),
-  ('packaging',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/packaging/__init__.py',
-   'PYMODULE'),
-  ('packaging.version',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/packaging/version.py',
-   'PYMODULE'),
   ('pathlib',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/pathlib/__init__.py',
    'PYMODULE'),
@@ -1990,54 +1442,6 @@
   ('pydoc_data.topics',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/pydoc_data/topics.py',
    'PYMODULE'),
-  ('pyparsing',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/pyparsing/__init__.py',
-   'PYMODULE'),
-  ('pyparsing.actions',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/pyparsing/actions.py',
-   'PYMODULE'),
-  ('pyparsing.common',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/pyparsing/common.py',
-   'PYMODULE'),
-  ('pyparsing.core',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/pyparsing/core.py',
-   'PYMODULE'),
-  ('pyparsing.diagram',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/pyparsing/diagram/__init__.py',
-   'PYMODULE'),
-  ('pyparsing.exceptions',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/pyparsing/exceptions.py',
-   'PYMODULE'),
-  ('pyparsing.helpers',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/pyparsing/helpers.py',
-   'PYMODULE'),
-  ('pyparsing.results',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/pyparsing/results.py',
-   'PYMODULE'),
-  ('pyparsing.testing',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/pyparsing/testing.py',
-   'PYMODULE'),
-  ('pyparsing.unicode',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/pyparsing/unicode.py',
-   'PYMODULE'),
-  ('pyparsing.util',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/pyparsing/util.py',
-   'PYMODULE'),
-  ('pyparsing.warnings',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/pyparsing/warnings.py',
-   'PYMODULE'),
   ('queue',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/queue.py',
    'PYMODULE'),
@@ -2067,10 +1471,6 @@
    'PYMODULE'),
   ('signal',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/signal.py',
-   'PYMODULE'),
-  ('six',
-   '/Users/hamdan2306/Desktop/Coding '
-   'Projects/ImgTrace/.venv/lib/python3.14/site-packages/six.py',
    'PYMODULE'),
   ('socket',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/socket.py',
@@ -2107,9 +1507,6 @@
    'PYMODULE'),
   ('threading',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/threading.py',
-   'PYMODULE'),
-  ('timeit',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/timeit.py',
    'PYMODULE'),
   ('token',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/token.py',
@@ -2173,9 +1570,6 @@
    'PYMODULE'),
   ('urllib.response',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/urllib/response.py',
-   'PYMODULE'),
-  ('uuid',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/uuid.py',
    'PYMODULE'),
   ('webbrowser',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/webbrowser.py',
